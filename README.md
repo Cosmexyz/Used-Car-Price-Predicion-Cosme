@@ -3,7 +3,8 @@
 Projeto acadêmico da disciplina de Inteligência Artificial com foco em Aprendizado Supervisionado.
 O objetivo é treinar um modelo capaz de prever o preço de carros usados com base em suas características técnicas e histórico.
 
-📚 Sobre o projeto
+# 📚 Sobre o projeto
+
 Este projeto utiliza um conjunto de dados reais de veículos usados contendo informações como marca, modelo, ano, quilometragem e condições do veículo. 
 
 - A proposta é aplicar conceitos de:
@@ -12,13 +13,14 @@ Este projeto utiliza um conjunto de dados reais de veículos usados contendo inf
 - Manipulação de dados com Pandas
 - Preparação de variáveis para modelagem
 
-🎯 Objetivo
+# 🎯 Objetivo
+
 Prever o preço de venda de um carro usado a partir de suas características.
 Trata-se de um problema de Regressão Supervisionada, pois a variável resposta é numérica.
 
-🗂️ Variáveis do Dataset
-🔤 Variáveis Qualitativas
+# 🗂️ Variáveis do Dataset
 
+🔤 Variáveis Qualitativas
 - Marca do veículo (Brand)
 - Modelo do veículo (Model)
 - Tipo de combustível
@@ -31,7 +33,8 @@ Trata-se de um problema de Regressão Supervisionada, pois a variável resposta 
 - Quilometragem
 - Preço
 
-🧠 Definição das Variáveis
+# 🧠 Definição das Variáveis
+
 - Variável resposta (target):
  - Preço do veículo
 
@@ -45,13 +48,14 @@ Trata-se de um problema de Regressão Supervisionada, pois a variável resposta 
  - Acidente
  - Documento limpo
 
-🛠️ Tecnologias utilizadas
+# 🛠️ Tecnologias utilizadas
+
 - Python
 - Pandas
 - VS Code
 - Git & GitHub
 
-▶️ Como executar
+# ▶️ Como executar
 1. Clone o repositório
 2. Instale as dependências
 3. Execute o arquivo principal
@@ -60,11 +64,11 @@ bash
 pip install pandas
 python main.py
 
-📈 Status do Projeto
+# 📈 Status do Projeto
 
 🟢 Etapa 1 — Preparação dos dados (concluída)
 🔜 Etapa 2 — Análise exploratória
 
-👨‍💻 Autor
+# 👨‍💻 Autor
 Cosme Carvalho
 Estudante de Ciência da Computação
