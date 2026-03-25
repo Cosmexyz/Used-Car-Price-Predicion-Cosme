@@ -35,10 +35,10 @@ Trata-se de um problema de Regressão Supervisionada, pois a variável resposta 
 
 # 🧠 Definição das Variáveis
 
-- Variável resposta (target):
+  Variável resposta (target):
  - Preço do veículo
 
-- Variáveis explicativas (features):
+  Variáveis explicativas (features):
  - Marca
  - Modelo
  - Ano
