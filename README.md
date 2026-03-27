@@ -1,4 +1,4 @@
-# Used-Car-Price-Predicion---IA-Supervisionada
+# Used-Car-Price-Predicion-Cosme
 
 Projeto acadêmico da disciplina de Inteligência Artificial com foco em Aprendizado Supervisionado.
 O objetivo é treinar um modelo capaz de prever o preço de carros usados com base em suas características técnicas e histórico.
